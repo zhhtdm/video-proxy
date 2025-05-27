@@ -1,0 +1,4 @@
+aiofiles==24.1.0
+aiohttp==3.11.18
+lzhgetlogger==1.0
+python-dotenv==1.1.0
